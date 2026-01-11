@@ -2,7 +2,7 @@ name: Schedule Workflow by Ali
 
 on:
   schedule: 
-    - cron: "28 11 11 1 *"
+    - cron: "34 11 11 1 *"
 jobs:
   Print_Job:
     runs-on: ubuntu-latest
